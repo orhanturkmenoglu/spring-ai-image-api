@@ -1,8 +1,4 @@
 # Spring AI Image API
-
-![Project Logo](https://raw.githubusercontent.com/orhanturkmenoglu/spring-ai-image-api/main/docs/logo.png)  
-*(Varsa kendi logonu buraya ekleyebilirsin)*
-
 ---
 
 ## Açıklama
